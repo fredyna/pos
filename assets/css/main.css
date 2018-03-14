@@ -1,0 +1,15 @@
+.login-panel{
+	margin-top:15%;
+}
+
+.register-panel{
+	margin-top:3%;
+}
+
+.form-group p{
+	color:#ff0000;
+}
+
+.dataTables_empty{
+	text-align: center;
+}
